@@ -1,2 +1,2 @@
-# DevOps_Class_Projejct
+# DevOps_Class_Project
 Repository untuk plan DevOps
